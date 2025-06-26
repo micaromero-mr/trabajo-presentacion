@@ -1,6 +1,6 @@
 # Trabajo Presentación
 
-![Vista previa del sitio](./preview.png)
+![Vista previa del sitio](./img/Screen.png)
 
 Este proyecto es una página web desarrollada como parte de una actividad académica. Su objetivo es presentar una introducción personal de manera clara y profesional, destacando habilidades, intereses y perfil académico.
 

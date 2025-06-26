@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=National+Park:wght@200..800&display=swap" );
+
+/* Selector universal */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Fuente */
+.fuente{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+    font-style:normal;
+    border: 2.5px solid aliceblue;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+body{
+    background-color: rgb(209, 183, 152);
+}
+
+section{
+    padding-bottom: 5px;
+    margin: 10px;
+}
+
+section h1{
+    color: aliceblue;
+    text-transform:none;
+    height: 20px;
+    font-size: 40px;
+    padding: 25px;
+    margin: 10px;
+    text-align:center;
+    letter-spacing: 3px;
+}
+
+div{
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+}
+
+div img{
+    max-width: 250px;
+    border-radius: 5px;
+    border: 1.5px solid aliceblue;
+    border-color: aliceblue;
+}

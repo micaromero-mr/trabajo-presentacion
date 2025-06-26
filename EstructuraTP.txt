@@ -1,0 +1,22 @@
+CONTENIDO: 
+* Nombre completo
+* Ocupacion
+* Breve descripcion
+* Imagen (avatar/foto)
+
+REQUISITOS:
+* html básico  (head, body h1, p, img, div)
+* css: 
+- Fondo de color
+- Color de texto
+- Margenes y padding
+- Border y border-radius
+ ** CON ARCHIVO STYLE.CSS EXTERNO
+ ** SIN FLEXBOX NI GRID
+
+DESAFIO OPCIONAL:
+* Cambiar fuente con google fonts
+* Agregar efecto :hover a la imagen
+
+DESCRICPION PERSONAL:
+¡Hola! Mi nombre es Micaela Romero, tengo 26 años y estudio Ingeniería en Sistemas de Información. Me considero una persona con pensamiento crítico, capacidad para resolver problemas y una comunicación efectiva basada en la escucha activa. Disfruto trabajar en equipo, aportar una influencia positiva y mantener siempre una actitud de mejora continua. Además, encuentro en la lectura y en los momentos de silencio una forma de fortalecer mi enfoque y crecimiento personal.
